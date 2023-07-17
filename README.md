@@ -1,6 +1,6 @@
 ### Live-coding: Tic Tac Toe game
 
-Your task is to create a small game - Tic Tac Toe, using React.
+Your task is to create a small game - Tic Tac Toe, using React and MaterialUI.
 
 ## Technology stack
 
