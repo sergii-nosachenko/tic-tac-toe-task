@@ -1,6 +1,6 @@
 import { render, fireEvent, RenderResult } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
-import Game from './Game.solution';
+import Game from './Game';
 
 const playAndOWins = (cells: HTMLElement[]) => {
   fireEvent.click(cells[0]);
